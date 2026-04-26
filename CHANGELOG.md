@@ -36,3 +36,10 @@
 - Generación de gráfico de excesos de velocidad agrupados por la hora 00:00.
 - Generación de gráfico de excesos de velocidad agrupados por la fecha 1932-01-01.
 
+
+---
+## [Día 6] - 2026-04-26
+**Cambios realizados:**
+- Cálculo y análisis del porcentaje de infracciones ocurridas en la fecha por defecto (1932-01-01), que representa el 77.29% del total.
+- Cálculo y análisis del porcentaje de infracciones ocurridas en la hora por defecto (00:00), que representa el 19.79% del total.
+
