@@ -19,3 +19,10 @@
 - Detección y tratamiento de outliers.
 - Cálculo de exceso de velocidad y filtrado de infracciones.
 
+
+---
+## [Día 4] - 2026-04-26
+**Cambios realizados:**
+- Implementación de clase FineAnalyzer para análisis de datos.
+- Generación de rankings de patentes, horarios y métricas de velocidad.
+
