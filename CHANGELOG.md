@@ -26,3 +26,13 @@
 - Implementación de clase FineAnalyzer para análisis de datos.
 - Generación de rankings de patentes, horarios y métricas de velocidad.
 
+
+---
+## [Día 5] - 2026-04-26
+**Cambios realizados:**
+- Generación de gráfico de ranking de las 10 patentes más reincidentes.
+- Generación de gráfico de porcentaje de infracciones por hora.
+- Generación de gráfico de cantidad de infracciones por mes.
+- Generación de gráfico de excesos de velocidad agrupados por la hora 00:00.
+- Generación de gráfico de excesos de velocidad agrupados por la fecha 1932-01-01.
+
