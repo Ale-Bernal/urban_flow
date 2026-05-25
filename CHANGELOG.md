@@ -68,3 +68,12 @@
 - Construcción del diccionario group_images y guardado en data/interim/group_images.json.
 - Función reutilizable mostrar_muestra_imagenes.
 
+
+---
+## [Día 3] - 2026-05-25
+### Pipeline de procesamiento de imágenes
+
+- Conversión a escala de grises de las imágenes originales.
+- Suavizado Gaussiano sobre las imágenes en grises.
+- Detección de bordes sobre las imágenes suavizadas.
+
