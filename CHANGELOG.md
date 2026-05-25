@@ -77,3 +77,12 @@
 - Suavizado Gaussiano sobre las imágenes en grises.
 - Detección de bordes sobre las imágenes suavizadas.
 
+
+---
+## [Día 4] - 2026-05-25
+### Extracción de patentes y match con dataset
+
+- Aplicación de extraer_patente sobre todas las imágenes.
+- Match izquierda a derecha contra speeding_fines.csv con umbral del 80%.
+- Generación de data/processed/speeding_fines_image.csv con las columnas imagen, patente_imagen y ratio.
+
