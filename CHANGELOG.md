@@ -93,3 +93,10 @@
 
 - Métricas de multas con y sin imagen, imágenes sin match y multas pendientes de pago.
 
+
+---
+## [Día 6] - 2026-05-25
+### Conclusión del Sprint 2
+
+- Conclusión final del Sprint 2 escrita en data/Readme.md.
+
