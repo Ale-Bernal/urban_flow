@@ -49,3 +49,12 @@
 **Cambios realizados:**
 - Se realizón una conclusión acerca de los datos que contiene el dataset..
 
+
+---
+## [Día 1] - 2026-05-25
+### Inicialización del Sprint 2
+
+- Clonado del repositorio del Sprint 1.
+- Creación de la rama Sprint_2 a partir de Sprint_1.
+- Descarga y descompresión del dataset de imágenes en data/raw/imgs.
+
