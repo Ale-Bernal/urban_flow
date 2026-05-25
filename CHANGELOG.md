@@ -86,3 +86,10 @@
 - Match izquierda a derecha contra speeding_fines.csv con umbral del 80%.
 - Generación de data/processed/speeding_fines_image.csv con las columnas imagen, patente_imagen y ratio.
 
+
+---
+## [Día 5] - 2026-05-25
+### Métricas finales del Sprint 2
+
+- Métricas de multas con y sin imagen, imágenes sin match y multas pendientes de pago.
+
