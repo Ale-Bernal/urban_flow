@@ -58,3 +58,13 @@
 - Creación de la rama Sprint_2 a partir de Sprint_1.
 - Descarga y descompresión del dataset de imágenes en data/raw/imgs.
 
+
+---
+## [Día 2] - 2026-05-25
+### Exploración del dataset de imágenes
+
+- Listado de imágenes con su tamaño en kb.
+- Clasificación de imágenes en plates y completes por área.
+- Construcción del diccionario group_images y guardado en data/interim/group_images.json.
+- Función reutilizable mostrar_muestra_imagenes.
+
