@@ -165,3 +165,9 @@ Búsqueda de patente por imagen
 * Retorno de los datos del vehículo a partir de una imagen.
 * Validación de la función con imágenes de ejemplo.
 
+[Día 10] - 2026-06-14
+Conclusión del Sprint 3
+
+* Redacción de la conclusión del trabajo desarrollado.
+* Conclusión final escrita en data/Readme.md.
+
