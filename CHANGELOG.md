@@ -158,3 +158,10 @@ Base vectorial de patentes
 * Creación de la base vectorial patente_vectorial.
 * Población de la base vectorial con las imágenes de las evidencias.
 
+[Día 9] - 2026-06-14
+Búsqueda de patente por imagen
+
+* Implementación de la función buscar_patente_imagen.
+* Retorno de los datos del vehículo a partir de una imagen.
+* Validación de la función con imágenes de ejemplo.
+
