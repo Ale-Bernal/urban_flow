@@ -134,3 +134,11 @@ Modelo relacional con SQLAlchemy
 * Definición de los modelos ORM con clave primaria y relaciones.
 * Sobrescritura del método __repr__ en cada modelo.
 
+[Día 6] - 2026-06-14
+Creación y poblado de la base transito
+
+* Creación de la base de datos transito con SQLAlchemy.
+* Creación automática de las tablas a partir de los modelos.
+* Migración de los datos desde el CSV a la base relacional.
+* Validación de la cantidad de registros insertados.
+
