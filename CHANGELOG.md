@@ -142,3 +142,12 @@ Creación y poblado de la base transito
 * Migración de los datos desde el CSV a la base relacional.
 * Validación de la cantidad de registros insertados.
 
+[Día 7] - 2026-06-14
+Consultas sobre la base relacional
+
+* Top 10 de patentes con mayor cantidad de multas.
+* Top 10 de multas sin evidencia asociada.
+* Radares con mayor volumen de infracciones.
+* Top 10 de patentes reincidentes en un período.
+* Porcentaje de multas confirmadas visualmente.
+
