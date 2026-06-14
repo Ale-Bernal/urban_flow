@@ -128,3 +128,9 @@ Carga de filas del CSV al modelo
 * Mapeo de cada fila del CSV a las clases del modelo lógico.
 * Validación de la función con una fila de ejemplo.
 
+[Día 5] - 2026-06-14
+Modelo relacional con SQLAlchemy
+
+* Definición de los modelos ORM con clave primaria y relaciones.
+* Sobrescritura del método __repr__ en cada modelo.
+
