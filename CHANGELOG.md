@@ -115,3 +115,9 @@ Migración de binarios a DVC
 * Migración de las imágenes urban_flow_plates de git a DVC.
 * Push de los binarios al remote local de DVC.
 
+[Día 3] - 2026-06-14
+Modelo lógico de dominio
+
+* Definición de las clases Vehiculo, Radar, Evidencia y Multa.
+* Modelado de relaciones: un vehículo con muchas multas y una multa con una evidencia.
+
