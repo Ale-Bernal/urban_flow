@@ -100,3 +100,10 @@
 
 - Conclusión final del Sprint 2 escrita en data/Readme.md.
 
+[Día 1] - 2026-06-14
+Inicialización del Sprint 3
+
+* Clonado del repositorio del Sprint 2.
+* Creación de la rama Sprint_3 a partir de Sprint_2.
+* Configuración del README.md con objetivo y contexto del sprint.
+
