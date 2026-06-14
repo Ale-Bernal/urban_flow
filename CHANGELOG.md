@@ -121,3 +121,10 @@ Modelo lógico de dominio
 * Definición de las clases Vehiculo, Radar, Evidencia y Multa.
 * Modelado de relaciones: un vehículo con muchas multas y una multa con una evidencia.
 
+[Día 4] - 2026-06-14
+Carga de filas del CSV al modelo
+
+* Implementación de la función procesar_fila_csv.
+* Mapeo de cada fila del CSV a las clases del modelo lógico.
+* Validación de la función con una fila de ejemplo.
+
