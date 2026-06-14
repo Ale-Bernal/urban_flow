@@ -107,3 +107,11 @@ Inicialización del Sprint 3
 * Creación de la rama Sprint_3 a partir de Sprint_2.
 * Configuración del README.md con objetivo y contexto del sprint.
 
+[Día 2] - 2026-06-14
+Migración de binarios a DVC
+
+* Inicialización de DVC y configuración del remote local.
+* Creación del directorio /content/remote_dvc como remote simulado.
+* Migración de las imágenes urban_flow_plates de git a DVC.
+* Push de los binarios al remote local de DVC.
+
