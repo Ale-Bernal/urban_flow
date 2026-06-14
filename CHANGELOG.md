@@ -151,3 +151,10 @@ Consultas sobre la base relacional
 * Top 10 de patentes reincidentes en un período.
 * Porcentaje de multas confirmadas visualmente.
 
+[Día 8] - 2026-06-14
+Base vectorial de patentes
+
+* Carga del modelo base OpenCLIP para generar embeddings.
+* Creación de la base vectorial patente_vectorial.
+* Población de la base vectorial con las imágenes de las evidencias.
+
